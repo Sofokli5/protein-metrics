@@ -1,0 +1,10 @@
+# Results (kept local, never pushed)
+*.csv
+
+# AlphaFold 3 outputs and structures, in case they are copied here
+*.cif
+*.pdb
+*.pdbqt
+*_confidences.json
+*_summary_confidences.json
+*_data.json
